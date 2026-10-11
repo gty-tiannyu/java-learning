@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|
 | 0001 | [两数之和](https://leetcode.cn/problems/two-sum/) | 简单 | 双层循环暴力枚举，O(n²) | 2026-10-11 | 通过 |
 | 0009 | [回文数](https://leetcode.cn/problems/palindrome-number/) | 简单 | 反转整个数字后与原数比较，O(log n) | 2026-10-10 | 通过 |
+| 0027 | [移除元素](https://leetcode.cn/problems/remove-element/) | 简单 | 快慢指针原地覆盖，O(n) | 2026-10-11 | 通过 |
 
 ## 为什么一题一个文件夹
 
